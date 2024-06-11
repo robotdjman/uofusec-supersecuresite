@@ -1,7 +1,9 @@
 # A Super simple vulnerable website about cool pandas
+Built to show students how to use simple developer tools built right into browsers with a web application security focus.
 
 A very simple NodeJS and React.JS website that provides a very cool website about pandas, but it doesn't
 seem to be very secure...?
+
 
 ## Docker Setup
 - Install Docker
